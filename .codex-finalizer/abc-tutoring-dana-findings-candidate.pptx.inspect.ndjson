@@ -1,0 +1,83 @@
+{"kind":"deck","id":"pr/iet7zb","name":"Deck"}
+{"kind":"layout","layoutId":"5f5afc95-61a3-45aa-b15b-3a8527011efb","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"c970f147-2443-46ec-b70d-b01f43ed867b","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/watonh","slide":1,"title":"A FOLLOW-UP FOR DANA","textShapes":4}
+{"kind":"shape","id":"sh/kfel8ri9","slide":1,"bbox":[648,0,22,720]}
+{"kind":"textbox","id":"sh/lg72hwju","slide":1,"text":"A FOLLOW-UP FOR DANA","textPreview":"A FOLLOW-UP FOR DANA","textChars":20,"textLines":1,"bbox":[68,88,420,28]}
+{"kind":"textbox","id":"sh/apwj2hk7","slide":1,"text":"ABC Tutoring\nwebsite prototype","textPreview":"ABC Tutoring | website prototype","textChars":30,"textLines":2,"bbox":[68,150,530,170]}
+{"kind":"textbox","id":"sh/bq5kbm1s","slide":1,"text":"A simpler way for parents to find a tutor and request a session","textPreview":"A simpler way for parents to find a tutor and request a session","textChars":63,"textLines":1,"bbox":[68,350,500,100]}
+{"kind":"textbox","id":"sh/crel4r2d","slide":1,"text":"Prototype findings and next steps\nSeptember 2026","textPreview":"Prototype findings and next steps | September 2026","textChars":48,"textLines":2,"bbox":[68,565,390,62]}
+{"kind":"image","id":"im/m5832pkj","slide":1,"name":"","alt":"ABC Tutoring prototype homepage with Dana welcome note","bbox":[670,0,610,720]}
+{"kind":"notes","id":"nt/watonh","slide":1,"text":"Source: ABC Tutoring prototype screenshot captured from the local build on September 5, 2026."}
+{"kind":"slide","id":"sl/jd0mw0","slide":2,"title":"What I heard from you","textShapes":12}
+{"kind":"textbox","id":"sh/k7utkful","slide":2,"text":"What I heard from you","textPreview":"What I heard from you","textChars":21,"textLines":1,"bbox":[64,44,1090,58]}
+{"kind":"textbox","id":"sh/zm1sbad0","slide":2,"text":"“I want parents to find the right tutor and book a session without everything going through my phone.”","textPreview":"“I want parents to find the right tutor and book a session without everything going through my phone.”","textChars":102,"textLines":1,"bbox":[64,150,510,360]}
+{"kind":"textbox","id":"sh/ylsbi5cf","slide":2,"text":"Dana, owner of ABC Tutoring","textPreview":"Dana, owner of ABC Tutoring","textChars":27,"textLines":1,"bbox":[96,535,420,30]}
+{"kind":"textbox","id":"sh/xkja90va","slide":2,"text":"Help parents choose","textPreview":"Help parents choose","textChars":19,"textLines":1,"bbox":[650,142,500,31]}
+{"kind":"textbox","id":"sh/cjatgfup","slide":2,"text":"Filter by subject and grade. Compare prices, availability and teaching format.","textPreview":"Filter by subject and grade. Compare prices, availability and teaching format.","textChars":78,"textLines":1,"bbox":[650,177,515,58]}
+{"kind":"textbox","id":"sh/bi1s7ad4","slide":2,"text":"Build trust","textPreview":"Build trust","textChars":11,"textLines":1,"bbox":[650,267,500,31]}
+{"kind":"textbox","id":"sh/ahsbe5cj","slide":2,"text":"Show real tutor photos, personal introductions, credentials and testimonials.","textPreview":"Show real tutor photos, personal introductions, credentials and testimonials.","textChars":77,"textLines":1,"bbox":[650,302,515,58]}
+{"kind":"textbox","id":"sh/hgnul4be","slide":2,"text":"Keep you in control","textPreview":"Keep you in control","textChars":19,"textLines":1,"bbox":[650,392,500,31]}
+{"kind":"textbox","id":"sh/wfetszut","slide":2,"text":"Collect requests for your approval and let you manage tutor availability.","textPreview":"Collect requests for your approval and let you manage tutor availability.","textChars":73,"textLines":1,"bbox":[650,427,515,58]}
+{"kind":"textbox","id":"sh/itovidc3","slide":2,"text":"Keep the first version simple","textPreview":"Keep the first version simple","textChars":29,"textLines":1,"bbox":[650,517,500,31]}
+{"kind":"textbox","id":"sh/3uxwbido","slide":2,"text":"No payment or automated cancellation workflow. Parents can still call you when plans change.","textPreview":"No payment or automated cancellation workflow. Parents can still call you when plans change.","textChars":92,"textLines":1,"bbox":[650,552,515,58]}
+{"kind":"textbox","id":"sh/4v6dknu9","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1190,674,36,20]}
+{"kind":"notes","id":"nt/jd0mw0","slide":2,"text":"Source: Dana interview supplied for this presentation."}
+{"kind":"slide","id":"sl/8vnxw4","slide":3,"title":"Parents can request a session in one clear flow","textShapes":16}
+{"kind":"textbox","id":"sh/7mp4z6ts","slide":3,"text":"Parents can request a session in one clear flow","textPreview":"Parents can request a session in one clear flow","textChars":47,"textLines":1,"bbox":[64,44,1090,58]}
+{"kind":"textbox","id":"sh/8ny5sbud","slide":3,"text":"The prototype keeps the decision in one place and uses plain language throughout.","textPreview":"The prototype keeps the decision in one place and uses plain language throughout.","textChars":81,"textLines":1,"bbox":[64,103,1080,42]}
+{"kind":"shape","id":"sh/t8r61gby","slide":3,"bbox":[505,142,729,518]}
+{"kind":"textbox","id":"sh/va9o3qto","slide":3,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[64,166,55,34]}
+{"kind":"textbox","id":"sh/gbi5wvu9","slide":3,"text":"Find the right tutor","textPreview":"Find the right tutor","textChars":20,"textLines":1,"bbox":[128,166,320,29]}
+{"kind":"textbox","id":"sh/hcr650bu","slide":3,"text":"Use subject and grade filters, then compare rates and open times.","textPreview":"Use subject and grade filters, then compare rates and open times.","textChars":65,"textLines":1,"bbox":[128,200,320,64]}
+{"kind":"textbox","id":"sh/id0nylcf","slide":3,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[64,284,55,34]}
+{"kind":"textbox","id":"sh/3e9o7qt0","slide":3,"text":"Choose the session","textPreview":"Choose the session","textChars":18,"textLines":1,"bbox":[128,284,320,29]}
+{"kind":"textbox","id":"sh/72h4behk","slide":3,"text":"Pick an available time and choose online or in person.","textPreview":"Pick an available time and choose online or in person.","textChars":54,"textLines":1,"bbox":[128,318,320,64]}
+{"kind":"textbox","id":"sh/618329gz","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[64,402,55,34]}
+{"kind":"textbox","id":"sh/t4zmdozq","slide":3,"text":"Share the essentials","textPreview":"Share the essentials","textChars":20,"textLines":1,"bbox":[128,402,320,29]}
+{"kind":"textbox","id":"sh/83q54jy5","slide":3,"text":"Enter the parent’s contact details and the student’s first name, grade and subject.","textPreview":"Enter the parent’s contact details and the student’s first name, grade and subject.","textChars":83,"textLines":1,"bbox":[128,436,320,64]}
+{"kind":"textbox","id":"sh/jex47uh8","slide":3,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[64,520,55,34]}
+{"kind":"textbox","id":"sh/ydo3y9g3","slide":3,"text":"Wait for your reply","textPreview":"Wait for your reply","textChars":19,"textLines":1,"bbox":[128,520,320,29]}
+{"kind":"textbox","id":"sh/lgzm94ze","slide":3,"text":"The parent sees “pending approval” while you review the request.","textPreview":"The parent sees “pending approval” while you review the request.","textChars":64,"textLines":1,"bbox":[128,554,320,64]}
+{"kind":"textbox","id":"sh/kf6l0zyt","slide":3,"text":"No payment is collected.","textPreview":"No payment is collected.","textChars":24,"textLines":1,"bbox":[128,640,310,26]}
+{"kind":"textbox","id":"sh/3a14jyhs","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1190,674,36,20]}
+{"kind":"image","id":"im/7eh47axk","slide":3,"name":"","geometry":"roundRect","alt":"Tutor profile and booking request form","bbox":[515,152,709,498]}
+{"kind":"notes","id":"nt/8vnxw4","slide":3,"text":"Source: ABC Tutoring prototype screenshot. The demo tutor portrait is an Unsplash photograph: https://images.unsplash.com/photo-1494790108377-be9c29b29330"}
+{"kind":"slide","id":"sl/hvmtl7","slide":4,"title":"Your booking desk keeps you in control","textShapes":11}
+{"kind":"textbox","id":"sh/gf6tonid","slide":4,"text":"Your booking desk keeps you in control","textPreview":"Your booking desk keeps you in control","textChars":38,"textLines":1,"bbox":[64,44,1090,58]}
+{"kind":"textbox","id":"sh/fexcv21s","slide":4,"text":"A simple private view gives you the final say over every request.","textPreview":"A simple private view gives you the final say over every request.","textChars":65,"textLines":1,"bbox":[64,103,1080,42]}
+{"kind":"shape","id":"sh/udobmx0n","slide":4,"bbox":[54,158,742,475]}
+{"kind":"textbox","id":"sh/4jqts7ip","slide":4,"text":"See every request","textPreview":"See every request","textChars":17,"textLines":1,"bbox":[846,180,355,32]}
+{"kind":"textbox","id":"sh/3ihcz214","slide":4,"text":"Parent, student, tutor, subject, format and requested time appear together.","textPreview":"Parent, student, tutor, subject, format and requested time appear together.","textChars":75,"textLines":1,"bbox":[846,218,355,74]}
+{"kind":"textbox","id":"sh/2h8bqx0j","slide":4,"text":"Approve on your schedule","textPreview":"Approve on your schedule","textChars":24,"textLines":1,"bbox":[846,312,355,32]}
+{"kind":"textbox","id":"sh/5ovap8jq","slide":4,"text":"A request stays pending until you decide. Approval removes that time from availability.","textPreview":"A request stays pending until you decide. Approval removes that time from availability.","textChars":87,"textLines":1,"bbox":[846,350,355,74]}
+{"kind":"textbox","id":"sh/knmtg3i5","slide":4,"text":"Keep tutor times current","textPreview":"Keep tutor times current","textChars":24,"textLines":1,"bbox":[846,444,355,32]}
+{"kind":"textbox","id":"sh/u90b2lgj","slide":4,"text":"You can add or remove each tutor’s available times yourself.","textPreview":"You can add or remove each tutor’s available times yourself.","textChars":60,"textLines":1,"bbox":[846,482,355,74]}
+{"kind":"textbox","id":"sh/va9sv6h4","slide":4,"text":"Prototype note","textPreview":"Prototype note","textChars":14,"textLines":1,"bbox":[840,578,160,23]}
+{"kind":"textbox","id":"sh/wbit4by9","slide":4,"text":"Notifications and schedule updates are simulated and saved on one device for now.","textPreview":"Notifications and schedule updates are simulated and saved on one device for now.","textChars":81,"textLines":1,"bbox":[840,607,355,58]}
+{"kind":"textbox","id":"sh/hcraxgzu","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1190,674,36,20]}
+{"kind":"image","id":"im/srepcna1","slide":4,"name":"","geometry":"roundRect","alt":"Dana admin view with a pending booking request","bbox":[64,168,722,455]}
+{"kind":"notes","id":"nt/hvmtl7","slide":4,"text":"Source: ABC Tutoring prototype screenshot. Demo tutor images shown in the screenshot are from Unsplash: https://images.unsplash.com/photo-1494790108377-be9c29b29330, https://images.unsplash.com/photo-1566753323558-f4e0952af115, and https://images.unsplash.com/photo-1534528741775-53994a69daeb"}
+{"kind":"slide","id":"sl/ptyimz","slide":5,"title":"What you can learn from the website","textShapes":20}
+{"kind":"textbox","id":"sh/hw3ilsrq","slide":5,"text":"What you can learn from the website","textPreview":"What you can learn from the website","textChars":35,"textLines":1,"bbox":[64,44,1090,58]}
+{"kind":"textbox","id":"sh/utczqd8f","slide":5,"text":"PostHog follows the parent journey without collecting names, emails or student details.","textPreview":"PostHog follows the parent journey without collecting names, emails or student details.","textChars":87,"textLines":1,"bbox":[64,103,1080,42]}
+{"kind":"shape","id":"sh/vul0ji90","slide":5,"bbox":[126,205,1018,4]}
+{"kind":"textbox","id":"sh/4zu1wnqh","slide":5,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[158,166,48,48]}
+{"kind":"textbox","id":"sh/p03ipsr2","slide":5,"text":"Directory visits","textPreview":"Directory visits","textChars":16,"textLines":1,"bbox":[64,232,236,30]}
+{"kind":"textbox","id":"sh/2xcjux8b","slide":5,"text":"Parents begin browsing","textPreview":"Parents begin browsing","textChars":22,"textLines":1,"bbox":[64,269,236,42]}
+{"kind":"textbox","id":"sh/3yl0n29w","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[468,166,48,48]}
+{"kind":"textbox","id":"sh/cne107qd","slide":5,"text":"Profile views","textPreview":"Profile views","textChars":13,"textLines":1,"bbox":[374,232,236,30]}
+{"kind":"textbox","id":"sh/donitcry","slide":5,"text":"Tutors draw interest","textPreview":"Tutors draw interest","textChars":20,"textLines":1,"bbox":[374,269,236,42]}
+{"kind":"textbox","id":"sh/pg7i1gby","slide":5,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[778,166,48,48]}
+{"kind":"textbox","id":"sh/ofyhsbad","slide":5,"text":"Booking starts","textPreview":"Booking starts","textChars":14,"textLines":1,"bbox":[684,232,236,30]}
+{"kind":"textbox","id":"sh/3u50z6ts","slide":5,"text":"Parents choose a time","textPreview":"Parents choose a time","textChars":21,"textLines":1,"bbox":[684,269,236,42]}
+{"kind":"textbox","id":"sh/2twzqls7","slide":5,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1088,166,48,48]}
+{"kind":"textbox","id":"sh/dk7i50ru","slide":5,"text":"Requests sent","textPreview":"Requests sent","textChars":13,"textLines":1,"bbox":[994,232,236,30]}
+{"kind":"textbox","id":"sh/cjyhwva9","slide":5,"text":"Parents complete the form","textPreview":"Parents complete the form","textChars":25,"textLines":1,"bbox":[994,269,236,42]}
+{"kind":"textbox","id":"sh/bip03qt4","slide":5,"text":"Questions the data answers","textPreview":"Questions the data answers","textChars":26,"textLines":1,"bbox":[64,355,470,35]}
+{"kind":"textbox","id":"sh/qhgzulsj","slide":5,"text":"Which subjects are families looking for?\nWhich tutors receive the most profile views?\nWhere do parents leave before sending a request?\nDoes Facebook produce visits and booking requests?","textPreview":"Which subjects are families looking for? | Which tutors receive the most profile views? | Where do parents leave before sending a request...","textChars":185,"textLines":4,"bbox":[64,405,525,175]}
+{"kind":"textbox","id":"sh/tonitwbq","slide":5,"text":"Before a real launch","textPreview":"Before a real launch","textChars":20,"textLines":1,"bbox":[690,355,470,35]}
+{"kind":"textbox","id":"sh/snehkra5","slide":5,"text":"Shared scheduling so every visitor sees the same bookings and open times.\nPrivate sign-in so only you can open the admin view.\nReal notifications by email or text when a parent sends a request.","textPreview":"Shared scheduling so every visitor sees the same bookings and open times. | Private sign-in so only you can open the admin view. | Real n...","textChars":193,"textLines":3,"bbox":[690,405,510,150]}
+{"kind":"textbox","id":"sh/k7yhgbi1","slide":5,"text":"The prototype is ready to review with Dana and a small group of parents.","textPreview":"The prototype is ready to review with Dana and a small group of parents.","textChars":72,"textLines":1,"bbox":[64,624,1080,36]}
+{"kind":"textbox","id":"sh/l8ri9wjm","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1190,674,36,20]}
+{"kind":"notes","id":"nt/ptyimz","slide":5,"text":"Source: Dana interview and the analytics event plan implemented in the ABC Tutoring prototype. No external performance data is presented."}
