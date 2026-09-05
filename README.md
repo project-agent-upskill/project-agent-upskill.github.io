@@ -1,6 +1,6 @@
 # ABC Tutoring prototype
 
-A friendly, static prototype for Dana’s tutoring service. Parents can filter tutors, open a profile, request a time, and see a pending confirmation. Dana’s admin view can approve requests and manage availability. Prototype data is stored in the browser with `localStorage`.
+A friendly, static prototype for a tutoring service. Parents can filter tutors, open a profile, request a time, and see a pending confirmation. Admin can approve requests and manage availability. Prototype data is stored in the browser with `localStorage`.
 
 ## Run it locally
 
@@ -11,7 +11,7 @@ npm run dev
 
 ## PostHog
 
-Copy `.env.example` to `.env.local`, then replace the placeholder with Dana’s PostHog project key. The site captures:
+Copy `.env.example` to `.env.local`, then replace the placeholder with PostHog project key. The site captures:
 
 - `tutor_directory_viewed`
 - `tutor_filter_selected`
